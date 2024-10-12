@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DiceRoll {
     public static void main(String[] args) {
-        System.out.println("Käyttäjä: Zehra Ghalia");
+        System.out.println("Käyttäjä: Zehra Ghali");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Kuinka monta noppaa haluat heittää? ");
         int numberOfDice = scanner.nextInt();
